@@ -16,6 +16,8 @@
  * 
  * If the Promise is rejected, the await expression throws the rejected value.
  * 
+ * Async and await are syntactical sugar to make promises easier to work with.
+ * 
  * 
  */
 
